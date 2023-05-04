@@ -11,17 +11,21 @@ const desenvolvedor = {
   email: "jefferson.felix182@gmail.com",
   linkedin: "https://www.linkedin.com/in/jefferson-felix/",
   contato: "(21) 96927-5444",
-  description: {
-    myProfile: `Em transição de carreira, por 4 anos fui supervisor de 
+  descricao: {
+    meuPerfil: `Em transição de carreira, por 4 anos fui supervisor de 
     telecomunicações na Ericsson/Claro, treinando mais de 40 funcionários.
     Buscando novos desafios, fiz o curso de desenvolvimento web na Trybe,
     aprendendo habilidades em front-end, back-end e metodologias ágeis. 
     Atualmente, estou me dedicando ao módulo de Ciências da Computação com
     foco em desenvolvimento de aplicações com Python.`,
-    myObjective: `Meu objetivo é conquistar minha primeira vaga como 
-    desenvolvedor e retomar a universidade, além de desenvolver tecnologias que 
-    tornem a vida das pessoas mais prática e ágil. E quem sabe, me tornar um 
-    especialista em desenvolvimento mobile.`,
+  },
+  objetivos: {
+    profissionais: [
+      "Conquistar minha primeira vaga como desenvolvedor",
+      "Retomar a universidade",
+      "Desenvolver tecnologias que tornem a vida das pessoas mais prática e ágil",
+    ],
+    pessoais: ["Tornar-se um especialista em desenvolvimento mobile"],
   },
   habilidadesFrontEnd: ["React", "Redux", "CSS", "HTML"],
   metodologiasÁgeis: ["Scrum", "Kanban"],
@@ -39,15 +43,8 @@ const desenvolvedor = {
     periodo: "4 anos",
     responsabilidades: "Treinamento e capacitação de 40 funcionários",
   },
-  objetivos: {
-    profissionais: [
-      "Conquistar minha primeira vaga como desenvolvedor",
-      "Retomar a universidade",
-      "Desenvolver tecnologias que tornem a vida das pessoas mais prática e ágil",
-    ],
-    pessoais: ["Tornar-se um especialista em desenvolvimento mobile"],
-  },
 };
+
 
 ```
 
