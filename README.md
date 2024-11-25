@@ -12,38 +12,40 @@ const desenvolvedor = {
   linkedin: "https://www.linkedin.com/in/jefferson-felix/",
   contato: "(21) 96927-5444",
   descricao: {
-    meuPerfil: `Em transição de carreira, por 4 anos fui supervisor de 
-    telecomunicações na Ericsson/Claro, treinando mais de 40 funcionários.
-    Buscando novos desafios, fiz o curso de desenvolvimento web na Trybe,
-    aprendendo habilidades em front-end, back-end e metodologias ágeis. 
-    Atualmente, estou me dedicando ao módulo de Ciências da Computação com
-    foco em desenvolvimento de aplicações com Python.`,
+    meuPerfil: `Atualmente atuo como desenvolvedor front-end na Climatempo/StormGeo, 
+    com sólida experiência no processamento e visualização de grandes volumes de 
+    dados meteorológicos de alta complexidade. Tenho um forte conhecimento em renderização 
+    de mapas web utilizando Leaflet e WebGL. Além disso, estou cursando Engenharia de 
+    Software, sempre aprimorando minha lógica de programação e habilidades de comunicação 
+    através de estudos e cursos de oratória.`,
   },
   objetivos: {
     profissionais: [
-      "Conquistar minha primeira vaga como desenvolvedor",
-      "Retomar a universidade",
-      "Desenvolver tecnologias que tornem a vida das pessoas mais prática e ágil",
+      "Crescer como desenvolvedor",
+      "Concluir a graduação",
+      "Criar soluções tecnológicas que otimizem a vida das pessoas",
     ],
-    pessoais: ["Tornar-se um especialista em desenvolvimento mobile"],
+    pessoais: ["Aprimorar minhas habilidades em desenvolvimento mobile e web"],
   },
-  habilidadesFrontEnd: ["React", "Redux", "CSS", "HTML"],
+  habilidadesFrontEnd: ["React", "Redux", "CSS", "HTML", "Leaflet", "WebGL"],
   metodologiasÁgeis: ["Scrum", "Kanban"],
   habilidadesBackEnd: [
     "Node.js",
     "Typescript",
     "MySQL",
+    "GraphQL",
     "Sequelize",
-    "mongodb",
+    "MongoDB",
   ],
   outrasHabilidades: ["Javascript", "Python", "Jest", "Cypress", "Docker"],
   experienciaAnterior: {
     empresa: "Ericsson/Claro",
     cargo: "Supervisor de Telecomunicações",
     periodo: "4 anos",
-    responsabilidades: "Treinamento e capacitação de 40 funcionários",
+    responsabilidades: "Treinamento e capacitação de mais de 40 funcionários",
   },
 };
+
 
 
 ```
