@@ -27,7 +27,7 @@ const desenvolvedor = {
     ],
     pessoais: ["Aprimorar minhas habilidades em desenvolvimento mobile e web"],
   },
-  habilidadesFrontEnd: ["React", "Redux", "CSS", "HTML", "Leaflet", "WebGL"],
+  habilidadesFrontEnd: ["React","Svelte", "Redux", "CSS", "HTML", "Leaflet", "WebGL"],
   metodologiasÁgeis: ["Scrum", "Kanban"],
   habilidadesBackEnd: [
     "Node.js",
