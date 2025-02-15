@@ -39,10 +39,10 @@ const desenvolvedor = {
   ],
   outrasHabilidades: ["Javascript", "Python", "Jest", "Cypress", "Docker"],
   experienciaAnterior: {
-    empresa: "Ericsson/Claro",
-    cargo: "Supervisor de Telecomunicações",
-    periodo: "4 anos",
-    responsabilidades: "Treinamento e capacitação de mais de 40 funcionários",
+    empresa: "Climatempo",
+    cargo: "Desenvolvedor Front-End",
+    periodo: "2 anos",
+    responsabilidades: "Desenvolvimento de produtos B2B",
   },
 };
 
